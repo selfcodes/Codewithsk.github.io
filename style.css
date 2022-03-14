@@ -24,3 +24,27 @@
   font-size: 17px;
   font-style: italic;
 }
+
+/* Contact Form */
+.container-sk {
+  width: 100%;
+  height: 100vh;
+  background: #001660;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+#skcontact {
+  background-color: #f2f2f2;
+  display: flex;
+  flex-direction: column;
+  padding: 2vw 4vw;
+  width: 90%;
+  max-width: 600px;
+  border-radius: 15px;
+}
+#skcontact h3 {
+  color: #555;
+  font-weight: 800;
+  margin-bottom: 20px;
+}
