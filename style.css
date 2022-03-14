@@ -1,0 +1,26 @@
+/* body {
+    background: #f2f2f2;
+} */
+.sk-divider {
+    width: auto;
+    height: 20px;
+    background-color: darkgray;
+}
+.sk-center{
+    align-items: center;
+    text-align: center;
+}
+#herosk-text {
+    font-size: 40px;
+    line-height: 160px;
+}
+#anim-text {
+  color: #FC6D6D;
+  
+  border-bottom: 3px #FC6D6D solid;
+}
+#sk-des {
+  font-family: Times New Roman;
+  font-size: 17px;
+  font-style: italic;
+}
