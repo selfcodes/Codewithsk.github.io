@@ -24,7 +24,16 @@
   font-size: 17px;
   font-style: italic;
 }
-
+.sk-icons {
+  height: 35px;
+  width: 35px;
+}
+.sk-icons:hover {
+  color: #fff;
+  background: #000;
+  border-radius: 10px;
+  padding: 5px;
+}
 /* Contact Form */
 .container-sk {
   width: 100%;
